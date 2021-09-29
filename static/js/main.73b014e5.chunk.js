@@ -1,0 +1,2 @@
+(this["webpackJsonppic-search"]=this["webpackJsonppic-search"]||[]).push([[0],{4:function(e,c,r){"use strict";r.r(c);r(0);var s=r(2),o=r.n(s),t=r(3);o.a.render(Object(t.jsx)("h1",{children:"Hello World!"}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.73b014e5.chunk.js.map
